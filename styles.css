@@ -142,7 +142,7 @@ color:#022C00;
 }
 
 .num{
-font-size:9em;
+font-size:8em;
 font-weight:bolder;
 position:relative;
 z-index:1;
@@ -301,79 +301,79 @@ transform:translateY(5px);
 
 
 #A{
-animation: A alternate ease 2s  1s infinite both;
+animation: A alternate ease 2s  1s 1 both;
 }
 
 #B{
-animation: B alternate ease 2s  1.3s infinite both;
+animation: B alternate ease 2s  1.3s 1 both;
 }
 
 #C{
-animation: C alternate ease 2s  1.5s infinite both;
+animation: C alternate ease 2s  1.5s 1 both;
 }
 
 #D{
-animation: D alternate ease 2s  1.7s infinite both;
+animation: D alternate ease 2s  1.7s 1 both;
 }
 
 #E{
-animation: E alternate ease 2s  1.9s infinite both;
+animation: E alternate ease 2s  1.9s 1 both;
 }
 
 #F{
-animation: F alternate ease 2s  2.1s infinite both;
+animation: F alternate ease 2s  2.1s 1 both;
 }
 
 #G{
-animation: G alternate ease 2s  2.3s infinite both;
+animation: G alternate ease 2s  2.3s 1 both;
 }
 
 #H{
-animation: H alternate ease 2s  2.5s infinite both;
+animation: H alternate ease 2s  2.5s 1 both;
 }
 
 #I{
-animation: I alternate ease 2s  2.7s infinite both;
+animation: I alternate ease 2s  2.7s 1 both;
 }
 
 #J{
-animation: J alternate ease 2s  2.9s infinite both;
+animation: J alternate ease 2s  2.9s 1 both;
 }
 
 #K{
-animation: K alternate ease 2s  3.1s infinite both;
+animation: K alternate ease 2s  3.1s 1 both;
 }
 
 #L{
-animation: L alternate ease 2s  3.3s infinite both;
+animation: L alternate ease 2s  3.3s 1 both;
 }
 
 #M{
-animation: M alternate ease 2s  3.5s infinite both;
+animation: M alternate ease 2s  3.5s 1 both;
 }
 
 #N{
-animation: N alternate ease 2s  3.7s infinite both;
+animation: N alternate ease 2s  3.7s 1 both;
 }
 
 #O{
-animation: O alternate ease 2s  3.9s infinite both;
+animation: O alternate ease 2s  3.9s 1 both;
 }
 
 #P{
-animation: P alternate ease 2s  4.1s infinite both;
+animation: P alternate ease 2s  4.1s 1 both;
 }
 
 #Q{
-animation: Q alternate ease 2s  4.3s infinite both;
+animation: Q alternate ease 2s  4.3s 1 both;
 }
 
 #R{
-animation: R alternate ease 2s  4.5s infinite both;
+animation: R alternate ease 2s  4.5s 1 both;
 }
 
 #S{
-animation: S  alternate ease 2s  4.7s infinite both;
+animation: S  alternate ease 2s  4.7s 1 both;
 }
 
 
