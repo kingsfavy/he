@@ -115,6 +115,7 @@ position:relative;
 z-index:0;
 border-radius: 200px 0 0 200px;
 gap:0.5rem;
+padding-left:10px;
 }
 
 .boxs{
@@ -382,8 +383,7 @@ animation: S  alternate ease 2s  4.7s infinite both;
 
   0% {
     transform: translateY(50px);
-    opacity: 0;
-   color: #DE4A00;
+  opacity: 0;
   }
   100% {
     transform: translateY(0px);
@@ -395,8 +395,7 @@ animation: S  alternate ease 2s  4.7s infinite both;
 
   0% {
     transform: translateY(50px);
-    opacity: 0;
-   color: #DE4A00;
+  opacity: 0;
   }
   100% {
     transform: translateY(0px);
@@ -409,7 +408,6 @@ animation: S  alternate ease 2s  4.7s infinite both;
   0% {
     transform: translateY(50px);
     opacity: 0;
-   color: #DE4A00;
   }
   100% {
     transform: translateY(0px);
@@ -421,8 +419,7 @@ animation: S  alternate ease 2s  4.7s infinite both;
 
   0% {
     transform: translateY(50px);
-    opacity: 0;
-   color: #DE4A00;
+   opacity: 0;
   }
   100% {
     transform: translateY(0px);
@@ -434,8 +431,7 @@ animation: S  alternate ease 2s  4.7s infinite both;
 
   0% {
     transform: translateY(50px);
-    opacity: 0;
-   color: #DE4A00;
+   opacity: 0;
   }
   100% {
     transform: translateY(0px);
@@ -447,8 +443,7 @@ animation: S  alternate ease 2s  4.7s infinite both;
 
   0% {
     transform: translateY(50px);
-    opacity: 0;
-   color: #DE4A00;
+   opacity: 0;
   }
   100% {
     transform: translateY(0px);
@@ -461,7 +456,6 @@ animation: S  alternate ease 2s  4.7s infinite both;
   0% {
     transform: translateY(50px);
     opacity: 0;
-   color: #DE4A00;
   }
   100% {
     transform: translateY(0px);
@@ -474,7 +468,6 @@ animation: S  alternate ease 2s  4.7s infinite both;
   0% {
     transform: translateY(50px);
     opacity: 0;
-   color: #DE4A00;
   }
   100% {
     transform: translateY(0px);
@@ -487,7 +480,6 @@ animation: S  alternate ease 2s  4.7s infinite both;
   0% {
     transform: translateY(50px);
     opacity: 0;
-   color: #DE4A00;
   }
   100% {
     transform: translateY(0px);
@@ -500,7 +492,6 @@ animation: S  alternate ease 2s  4.7s infinite both;
   0% {
     transform: translateY(50px);
     opacity: 0;
-   color: #DE4A00;
   }
   100% {
     transform: translateY(0px);
@@ -514,7 +505,6 @@ animation: S  alternate ease 2s  4.7s infinite both;
   0% {
     transform: translateY(50px);
     opacity: 0;
-   color: #DE4A00;
   }
   100% {
     transform: translateY(0px);
@@ -527,7 +517,6 @@ animation: S  alternate ease 2s  4.7s infinite both;
   0% {
     transform: translateY(50px);
     opacity: 0;
-   color: #DE4A00;
   }
   100% {
     transform: translateY(0px);
@@ -539,8 +528,7 @@ animation: S  alternate ease 2s  4.7s infinite both;
 
   0% {
     transform: translateY(50px);
-    opacity: 0;
-   color: #DE4A00;
+     opacity: 0;
   }
   100% {
     transform: translateY(0px);
@@ -553,7 +541,6 @@ animation: S  alternate ease 2s  4.7s infinite both;
   0% {
     transform: translateY(50px);
     opacity: 0;
-   color: #DE4A00;
   }
   100% {
     transform: translateY(0px);
@@ -566,8 +553,7 @@ animation: S  alternate ease 2s  4.7s infinite both;
 
   0% {
     transform: translateY(50px);
-    opacity: 0;
-   color: #DE4A00;
+   opacity: 0;
   }
   100% {
     transform: translateY(0px);
@@ -579,8 +565,7 @@ animation: S  alternate ease 2s  4.7s infinite both;
 
   0% {
     transform: translateY(50px);
-    opacity: 0;
-   color: #DE4A00;
+   opacity: 0;
   }
   100% {
     transform: translateY(0px);
@@ -593,7 +578,6 @@ animation: S  alternate ease 2s  4.7s infinite both;
   0% {
     transform: translateY(50px);
     opacity: 0;
-   color: #DE4A00;
   }
   100% {
     transform: translateY(0px);
@@ -605,8 +589,7 @@ animation: S  alternate ease 2s  4.7s infinite both;
 
   0% {
     transform: translateY(50px);
-    opacity: 0;
-   color: #DE4A00;
+   opacity: 0;
   }
   100% {
     transform: translateY(0px);
@@ -619,7 +602,6 @@ animation: S  alternate ease 2s  4.7s infinite both;
   0% {
     transform: translateY(50px);
     opacity: 0;
-   color: #DE4A00;
   }
   100% {
     transform: translateY(0px);
